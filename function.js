@@ -53,3 +53,6 @@ console.log("<br>");
 (() => {
   console.log("salam friends");
 })();
+((name) => {
+  console.log(`hello${name}`);
+})("  amjad");
